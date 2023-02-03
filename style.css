@@ -1,0 +1,65 @@
+.container{
+
+}
+
+.rounded-5{
+    width: 30px;
+}
+
+.banner{
+    background: url('lapangan.jpg') no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: #fff;
+}
+
+#navbarText{
+    padding-right: 7%;
+}
+
+.child{
+    text-align: start;
+    padding-left: 20%;
+    height: 80px;
+    width: 660px;
+}
+
+.childtext{
+    font-size: 20px;
+    text-align: center;
+    height: 180px;
+    width: 650px;
+    text-decoration: underline;
+}
+
+.classes{
+    font-size: 40px;
+    font-weight: bold;
+    text-align: start;
+}
+
+.child2{
+    font-size: 12px;
+    height: 120px;
+    width: 500px;
+    padding-left: 20%;
+}
+
+.kartu{
+    text-align: left;
+    color: yellow;
+}
+
+.kartu1{
+    text-align: left;
+    color:black;
+    font-weight: bold;
+    padding-left: 5%;
+}
+
+.court{
+    text-align: start;
+    border: 0;
+    border-bottom: 2px double #8c8c8c;
+}
